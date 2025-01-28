@@ -1,0 +1,22 @@
+apikeyauth:
+
+apikeyauth/client:
+  client_auth: 
+    apikey: key
+
+apikeyauth/server:
+  settings: 
+    inline: |
+      key1
+      key2
+    file: ./testdata/.settings    
+  
+apikeyauth/both:
+  client_auth:
+    apikey: key
+  settings:
+    file: ./testdata/.settings
+
+
+
+    

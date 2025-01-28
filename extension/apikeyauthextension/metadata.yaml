@@ -1,0 +1,15 @@
+type: apikeyauth
+
+status:
+  class: extension
+  stability:
+    alpha: [extension]
+  distributions: [contrib]
+  codeowners:
+    active: [mjb]
+    
+    # active: [jpkrohling, frzifus]
+    # emeritus: [svrakitin]
+
+tests:
+  config:
