@@ -3,7 +3,7 @@
 // Copyright Xplor Technologies
 // SPDX-License-Identifier: Apache-2.0
 
-package apikeyauthextension // import "github.com/open-telemetry/opentelemetry-collector-contrib/extension/apikeyauthextension"
+package apikeyauthextension // import "github.com/mikeb-xplor/opentelemetry-collector-contrib/extension/apikeyauthextension"
 
 import (
 	"bytes"

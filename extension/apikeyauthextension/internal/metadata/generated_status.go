@@ -8,7 +8,7 @@ import (
 
 var (
 	Type      = component.MustNewType("apikeyauth")
-	ScopeName = "github.com/open-telemetry/opentelemetry-collector-contrib/extension/apikeyauthextension"
+	ScopeName = "github.com/mikeb-xplor/opentelemetry-collector-contrib/extension/apikeyauthextension"
 )
 
 const (

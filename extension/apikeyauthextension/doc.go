@@ -6,4 +6,4 @@
 //go:generate mdatagen metadata.yaml
 
 // Package apikeyauthextension implements an extension offering Bearer token authentication over HTTP with a simple Base64 encoded key
-package apikeyauthextension // import "github.com/open-telemetry/opentelemetry-collector-contrib/extension/apikeyauthextension"
+package apikeyauthextension // import "github.com/mikeb-xplor/opentelemetry-collector-contrib/extension/apikeyauthextension"
