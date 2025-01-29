@@ -6,9 +6,10 @@
 package apikeyauthextension
 
 import (
-	"extension/apikeyauthextension/internal/metadata"
 	"path/filepath"
 	"testing"
+
+	"github.com/mikeb-xplor/opentelemetry-collector-contrib/extension/apikeyauthextension/internal/metadata"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"

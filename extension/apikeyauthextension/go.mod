@@ -1,4 +1,4 @@
-module extension/apikeyauthextension
+module github.com/mikeb-xplor/opentelemetry-collector-contrib/extension/apikeyauthextension
 
 go 1.22.0
 

@@ -7,7 +7,8 @@ package apikeyauthextension
 
 import (
 	"context"
-	"extension/apikeyauthextension/internal/metadata"
+
+	"github.com/mikeb-xplor/opentelemetry-collector-contrib/extension/apikeyauthextension/internal/metadata"
 
 	"go.opentelemetry.io/collector/component"
 	"go.opentelemetry.io/collector/extension"
